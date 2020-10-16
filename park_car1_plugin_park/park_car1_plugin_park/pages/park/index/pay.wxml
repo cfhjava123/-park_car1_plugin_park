@@ -1,0 +1,17 @@
+<view class="page">
+
+    <view style="margin:40px 20px;font-size:14px;line-height:25px">
+        <view>车牌号码：<text style="color:#CCCCCC">嘉C99999</text> </view>
+        <view>订单编号：<text style="color:#CCCCCC">20204234242424243</text> </view>
+        <view>支付金额：<text style="color:red;font-size:18px">￥25.00</text></view>
+    </view>
+
+    <view class="" style="height: 8rpx;background-color: #F5F5F5;">
+			
+    </view>
+    
+    <view style="margin: 20px;padding-top: 30rpx;">
+			<button type="default" style="background-color: #3CC51F;color: white;border: 0;font-size: 16px;">微信支付 ￥25.00</button>
+		</view>
+
+</view>

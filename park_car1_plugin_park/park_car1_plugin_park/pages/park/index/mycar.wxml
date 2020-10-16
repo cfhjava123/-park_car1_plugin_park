@@ -1,0 +1,33 @@
+<view class="page">
+
+	<view class="tab_content">
+	 
+		<view class="park">
+			<view class="left">
+				<view style="text-align: left;" >车牌：桂C88999</view>
+				<view style="text-align: left;"></view>
+			</view>
+			<view class="right">
+				<!-- <view>编辑</view> -->
+			</view>
+		</view>
+
+    <view class="park">
+			<view class="left">
+				<view style="text-align: left;" >车牌：桂C88999</view>
+				<view style="text-align: left;"></view>
+			</view>
+			<view class="right">
+				<!-- <view>编辑</view> -->
+			</view>
+		</view>
+
+	</view>
+
+
+  <view class="bottom_add" bindtap="addCar">
+  <view>添加车辆</view>
+  </view>
+
+
+</view>

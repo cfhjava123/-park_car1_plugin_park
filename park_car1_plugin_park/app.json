@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "we7/pages/index/index",
+    "park_car1_plugin_park/pages/park/index/home",
+    "park_car1_plugin_park/pages/park/index/mycar",
+    "park_car1_plugin_park/pages/park/index/addcar",
+    "park_car1_plugin_park/pages/park/index/park",
+    "park_car1_plugin_park/pages/park/index/pay",
+    "park_car1_plugin_park/pages/park/plate1/plate1",
+    
+    
+    "we7/pages/user/index/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "微擎",
+    "navigationBarBackgroundColor": "#1ba9ba",
+    "backgroundColor": "#1ba9ba"
+  },
+  "sitemapLocation": "sitemap.json"
+}
